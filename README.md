@@ -1,5 +1,9 @@
+> leak by using draw line with hardware
 ![leak-draw line](img/memory-leak.gif)
 
+---
+
+> no leak by using draw arc with hardware
 ![normal-draw arc](img/memory-normal.gif)
 
 > gemini-2.5-pro-thinking explain
