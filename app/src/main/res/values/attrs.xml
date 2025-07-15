@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ProgressHorizontalView">
+        <attr name="progress_bitmap_width" format="dimension" />
+        <attr name="progress_bitmap_height" format="dimension" />
+        <attr name="icon_size" format="dimension" />
+        <attr name="progress_margin_start" format="dimension" />
+        <attr name="progress_padding" format="dimension" />
+        <attr name="progress_margin_end" format="dimension" />
+        <attr name="text_value_margin_end" format="dimension" />
+        <attr name="text_value_size" format="dimension" />
+        <attr name="text_value_unit_size" format="dimension" />
+        <attr name="progress_stroke_width" format="dimension" />
+    </declare-styleable>
+</resources>
