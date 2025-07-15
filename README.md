@@ -1,3 +1,5 @@
+> In my project, due to the need for frequent animations and some high-level drawing operations, the memory leaked more than 1GB
+
 > leak by using draw line with hardware
 ![leak-draw line](img/memory-leak.gif)
 
